@@ -1,4 +1,4 @@
-# Financial-Data-Analysis-Estimation-and-Visualization
+# Financial Data Analysis Estimation and Visualization
 
 ## Introduction
 
